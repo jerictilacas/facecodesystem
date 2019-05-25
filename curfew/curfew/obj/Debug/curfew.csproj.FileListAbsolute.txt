@@ -1,0 +1,464 @@
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\MJ\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.addUC.resources
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.recordUC.resources
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.UseraccUC.resources
+C:\Users\pc\Desktop\[NEW] curfewsystem\curfew\curfew\obj\Debug\curfew.dashboardUC.resources
+E:\curfewsystem\curfew\curfew\bin\Debug\curfew.exe.config
+E:\curfewsystem\curfew\curfew\bin\Debug\curfew.exe
+E:\curfewsystem\curfew\curfew\bin\Debug\curfew.pdb
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.adduc.resources
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.Form1.resources
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.recorduc.resources
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.useraccuc.resources
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.exe
+E:\curfewsystem\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.useraccuc.resources
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\itzja\Desktop\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\bin\Debug\curfew.exe.config
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.exe
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.pdb
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\bin\Debug\curfew.exe
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\bin\Debug\curfew.pdb
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\bin\Debug\Emgu.CV.dll
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\bin\Debug\Emgu.Util.dll
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.csprojResolveAssemblyReference.cache
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.adduc.resources
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.Form1.resources
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.recorduc.resources
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.useraccuc.resources
+\\HOITDC\RedirectedFolders\johng\Desktop\Office Files\Personal Files\Project\Project\curfewsystem\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.useraccuc.resources
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\Mj\Desktop\CURFEW\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.pdb
+E:\Eloy\curfewsystemCOPY\curfew\curfew\bin\Debug\curfew.exe.config
+E:\Eloy\curfewsystemCOPY\curfew\curfew\bin\Debug\curfew.exe
+E:\Eloy\curfewsystemCOPY\curfew\curfew\bin\Debug\curfew.pdb
+E:\Eloy\curfewsystemCOPY\curfew\curfew\bin\Debug\Emgu.CV.dll
+E:\Eloy\curfewsystemCOPY\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+E:\Eloy\curfewsystemCOPY\curfew\curfew\bin\Debug\Emgu.Util.dll
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.adduc.resources
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.Form1.resources
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.recorduc.resources
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.useraccuc.resources
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.exe
+E:\Eloy\curfewsystemCOPY\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.useraccuc.resources
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\Jerico Tilacas\Downloads\curfewfinal\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\MySql.Data.dll
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\Google.Protobuf.xml
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\backup\curfewfinal\curfew\curfew\obj\Debug\curfew.smsuc.resources
+E:\curfewfinal\curfew\curfew\bin\Debug\curfew.exe.config
+E:\curfewfinal\curfew\curfew\bin\Debug\curfew.exe
+E:\curfewfinal\curfew\curfew\bin\Debug\curfew.pdb
+E:\curfewfinal\curfew\curfew\bin\Debug\Emgu.CV.dll
+E:\curfewfinal\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+E:\curfewfinal\curfew\curfew\bin\Debug\Emgu.Util.dll
+E:\curfewfinal\curfew\curfew\bin\Debug\Google.Protobuf.dll
+E:\curfewfinal\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+E:\curfewfinal\curfew\curfew\bin\Debug\MetroFramework.dll
+E:\curfewfinal\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+E:\curfewfinal\curfew\curfew\bin\Debug\MySql.Data.dll
+E:\curfewfinal\curfew\curfew\bin\Debug\Google.Protobuf.xml
+E:\curfewfinal\curfew\curfew\bin\Debug\MySql.Data.xml
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.adduc.resources
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.Form1.resources
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.recorduc.resources
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.smsuc.resources
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.exe
+E:\curfewfinal\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.dll
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.xml
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.smsuc.resources
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\pc\Desktop\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.homeuc.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.dll
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.xml
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.homeuc.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.smsuc.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.loginuc.resources
+C:\Users\pc\Desktop\files\backup\curfewfinal1\curfew\curfew\obj\Debug\curfew.registeruc.resources
+E:\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe.config
+E:\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe
+E:\curfewfinal1\curfew\curfew\bin\Debug\curfew.pdb
+E:\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.dll
+E:\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+E:\curfewfinal1\curfew\curfew\bin\Debug\Emgu.Util.dll
+E:\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.dll
+E:\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+E:\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.dll
+E:\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+E:\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.dll
+E:\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.xml
+E:\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.xml
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.adduc.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.Form1.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.homeuc.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.loginuc.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorduc.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.registeruc.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.smsuc.resources
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.exe
+E:\curfewfinal1\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.dll
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.dll
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.dll
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.xml
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.xml
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.homeuc.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.loginuc.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.registeruc.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.smsuc.resources
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\mj\Downloads\curfewfinal1\curfewfinal1\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.dll
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.dll
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.dll
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\Google.Protobuf.xml
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\bin\Debug\MySql.Data.xml
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.homeuc.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.print.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.smsuc.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.Login.resources
+C:\Users\mj\Desktop\files\curfewfinal1\curfew\curfew\obj\Debug\curfew.Registration.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\Google.Protobuf.dll
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\MetroFramework.dll
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\MySql.Data.dll
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\Google.Protobuf.xml
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\bin\Debug\MySql.Data.xml
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.homeuc.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.Login.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.Registration.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.smsuc.resources
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\mj\Desktop\files\faceCode\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\Google.Protobuf.dll
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\MetroFramework.dll
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\MySql.Data.dll
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\Google.Protobuf.xml
+C:\Users\mj\Desktop\faceCode\curfew\curfew\bin\Debug\MySql.Data.xml
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.homeuc.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Login.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Registration.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.smsuc.resources
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.pdb
+C:\Users\mj\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.UserControl1.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+E:\faceCode\curfew\curfew\obj\Debug\curfew.adduc.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.Form1.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.homeuc.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.Login.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.recorduc.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.Registration.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.smsuc.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.UserControl1.resources
+E:\faceCode\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+E:\faceCode\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+E:\faceCode\curfew\curfew\obj\Debug\curfew.exe
+E:\faceCode\curfew\curfew\obj\Debug\curfew.pdb
+E:\faceCode\curfew\curfew\bin\Debug\curfew.exe.config
+E:\faceCode\curfew\curfew\bin\Debug\curfew.exe
+E:\faceCode\curfew\curfew\bin\Debug\curfew.pdb
+E:\faceCode\curfew\curfew\bin\Debug\Emgu.CV.dll
+E:\faceCode\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+E:\faceCode\curfew\curfew\bin\Debug\Emgu.Util.dll
+E:\faceCode\curfew\curfew\bin\Debug\Google.Protobuf.dll
+E:\faceCode\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+E:\faceCode\curfew\curfew\bin\Debug\MetroFramework.dll
+E:\faceCode\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+E:\faceCode\curfew\curfew\bin\Debug\MySql.Data.dll
+E:\faceCode\curfew\curfew\bin\Debug\Google.Protobuf.xml
+E:\faceCode\curfew\curfew\bin\Debug\MySql.Data.xml
+E:\faceCode\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+E:\faceCode\curfew\curfew\obj\Debug\curfew.Settings.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\curfew.exe.config
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\curfew.exe
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\curfew.pdb
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\Emgu.CV.dll
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\Emgu.Util.dll
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\Google.Protobuf.dll
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\MetroFramework.dll
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\MySql.Data.dll
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\Google.Protobuf.xml
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\bin\Debug\MySql.Data.xml
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.csprojAssemblyReference.cache
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.adduc.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.dashboarduc.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Form1.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.homeuc.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Login.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Properties.Resources.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.recorddatauc.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.recordFaceFrm.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.recorduc.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Registration.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.Settings.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.smsuc.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.UserControl1.resources
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.csproj.GenerateResource.cache
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.csproj.CoreCompileInputs.cache
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.csproj.CopyComplete
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.exe
+C:\Users\Jerico Tilacas\Desktop\faceCode\curfew\curfew\obj\Debug\curfew.pdb

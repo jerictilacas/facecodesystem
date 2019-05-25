@@ -1,0 +1,6 @@
+c:\users\jerico tilacas\source\repos\FaceCode\FaceCode\bin\Debug\FaceCode.dll
+c:\users\jerico tilacas\source\repos\FaceCode\FaceCode\bin\Debug\FaceCode.pdb
+c:\users\jerico tilacas\source\repos\FaceCode\FaceCode\obj\Debug\FaceCode.csprojAssemblyReference.cache
+c:\users\jerico tilacas\source\repos\FaceCode\FaceCode\obj\Debug\FaceCode.csproj.CoreCompileInputs.cache
+c:\users\jerico tilacas\source\repos\FaceCode\FaceCode\obj\Debug\FaceCode.dll
+c:\users\jerico tilacas\source\repos\FaceCode\FaceCode\obj\Debug\FaceCode.pdb
